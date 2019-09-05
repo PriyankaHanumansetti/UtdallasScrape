@@ -2,6 +2,10 @@
 
 This is a tool which scrapes data from https://www.utdallas.edu/services/transit/garages/
 
+## Prerequisites
+Java8
+Maven
+
 ## Steps to run the tool
 
 1) Build the maven project using "mvn clean compile assembly:single".
