@@ -4,6 +4,7 @@ This is a tool which scrapes data from https://www.utdallas.edu/services/transit
 
 ## Prerequisites
 Java8
+
 Maven
 
 ## Steps to run the tool
